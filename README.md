@@ -1,5 +1,5 @@
-Git基本常用命令如下：
-
+## Git基本常用命令如下：![参考](http://my.oschina.net/gsbhz/blog/337719)
+```
    mkdir：         XX (创建一个空目录 XX指目录名)
    pwd：          显示当前目录的路径。
    git init          把当前的目录变成可以管理的git仓库，生成隐藏.git文件。
@@ -34,5 +34,4 @@ Git基本常用命令如下：
    git remote 查看远程库的信息
    git remote –v 查看远程库的详细信息
    git push origin master  Git会把master分支推送到远程库对应的远程分支上 
-
-来自：http://my.oschina.net/gsbhz/blog/337719
+```
